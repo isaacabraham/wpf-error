@@ -1,0 +1,8 @@
+source https://www.nuget.org/api/v2/
+redirects: on
+framework >= net45
+
+nuget Expression.Blend.Sdk
+nuget FSharp.ViewModule.Core
+nuget FsXaml.Wpf
+nuget FSharp.Core
